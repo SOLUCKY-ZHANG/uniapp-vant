@@ -1,7 +1,7 @@
 # uniapp-vantUI
 
 #### 介绍
-初始化uni-app项目使用vant ui简易教程
+初始化uni-app项目使用vant ui简易教程(小程序)
 
 
 #### 安装教程
